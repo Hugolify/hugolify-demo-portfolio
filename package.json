@@ -1,10 +1,10 @@
 {
-  "name": "hugolify-template",
-  "version": "1.15.0",
+  "name": "hugolify-demo-portfolio",
+  "version": "1.0.0",
   "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "repository": "https://github.com/sebousan/hugolify-demo-portfolio",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/sebousan/hugolify-demo-portfolio/issues"
   },
   "author": {
     "email": "sebousan@gmail.com",

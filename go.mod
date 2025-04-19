@@ -1,4 +1,4 @@
-module github.com/hugolify/hugolify-template
+module github.com/sebousan/hugolify-demo-portfolio
 
 go 1.21
 
@@ -8,6 +8,8 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-admin v0.0.0-20250416201036-53c36a1e8bfd // indirect
 	github.com/hugolify/hugolify-theme v1.22.3 // indirect
+	github.com/hugolify/hugolify-theme-projects v1.1.25 // indirect
+	github.com/hugolify/hugolify-theme-projects-types v1.0.13 // indirect
 	github.com/midzer/tobii v2.7.3+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.5+incompatible // indirect
