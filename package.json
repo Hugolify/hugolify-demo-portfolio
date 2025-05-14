@@ -2,9 +2,9 @@
   "name": "hugolify-demo-portfolio",
   "version": "1.0.0",
   "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/sebousan/hugolify-demo-portfolio",
+  "repository": "https://github.com/hugolify/hugolify-demo-portfolio",
   "bugs": {
-    "url": "https://github.com/sebousan/hugolify-demo-portfolio/issues"
+    "url": "https://github.com/hugolify/hugolify-demo-portfolio/issues"
   },
   "author": {
     "email": "sebousan@gmail.com",

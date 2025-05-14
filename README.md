@@ -1,40 +1,34 @@
-![Twitter banner](https://user-images.githubusercontent.com/4457294/208064328-5bbf40e4-5520-41f4-8024-30c898c1a0e8.png)
+# Hugolify demo portfolio
 
-# Hugolify template
+## Commands
 
-Is a Github template for build easily a fast, accessible friendly and low carbon website!
+Install packages
 
-## Live demos
+```bash
+yarn
+```
 
-### Base
+Watch
 
-https://demo.hugolify.io/
+```bash
+yarn watch
+```
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5a4fa061-e7a5-4e66-9612-4fae713bda09/deploy-status)](https://app.netlify.com/sites/hugolify-demo/deploys)
+Launch Decap CMS in local
 
-### Theme 1
+```bash
+yarn cms
+```
 
-https://theme-1--hugolify-demo.netlify.app/
+Build
 
-### Theme 2
+```bash
+yarn build
+```
 
-https://theme-2--hugolify-demo.netlify.app/
+## Tutorial
 
-### Theme 3
-
-https://theme-3--hugolify-demo.netlify.app/
-
-### Theme 4
-
-https://theme-4--hugolify-demo.netlify.app/
-
-### Theme 5
-
-https://theme-5--hugolify-demo.netlify.app/
-
-### Products
-
-https://demo-products--hugolify-demo.netlify.app
+https://www.hugolify.io/tutorials/how-to-create-a-portfolio-with-hugo-and-decap-cms-using-hugolify/
 
 ## Documentation
 
