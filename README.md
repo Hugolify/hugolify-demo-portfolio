@@ -1,3 +1,5 @@
+![How to create a portfolio with Hugo and Decap CMS using Hugolify](https://res.cloudinary.com/uncinq/image/upload/v1758206688/share-how-to-portfolio_gknhww.png)
+
 # Hugolify demo portfolio
 
 ## Commands
